@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+data/runtime/
+eval/results/
+
+.DS_Store
+*.log
+
+# IDE
+.idea/
+.vscode/

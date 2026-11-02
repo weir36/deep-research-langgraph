@@ -1,0 +1,15 @@
+langgraph>=1.2
+langgraph-checkpoint-sqlite>=3.0
+aiosqlite
+langchain-core>=1.0
+langchain-openai>=1.0
+tavily-python>=0.7
+ddgs
+trafilatura
+pydantic>=2.7
+jinja2
+pandas
+numpy
+pytest
+pytest-asyncio
+pytest-timeout
